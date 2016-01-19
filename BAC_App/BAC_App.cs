@@ -24,14 +24,14 @@ namespace BAC_App
 
 		protected override void OnStart ()
 		{
-			// Handle when your app starts
 
-			//TESTING GIT by Chris
+			// Sup chris, it's Nelson
+
 		}
 
 		protected override void OnSleep ()
 		{
-			// Handle when your app sleeps
+			// Test edit
 		}
 
 		protected override void OnResume ()
