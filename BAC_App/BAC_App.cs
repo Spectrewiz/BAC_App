@@ -25,6 +25,8 @@ namespace BAC_App
 		protected override void OnStart ()
 		{
 			// Handle when your app starts
+
+			//TESTING GIT by Chris
 		}
 
 		protected override void OnSleep ()
