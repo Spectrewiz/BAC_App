@@ -1,0 +1,16 @@
+/Users/Nelson/Projects/BAC_App/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Nelson/Projects/BAC_App/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/Nelson/Projects/BAC_App/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/Nelson/Projects/BAC_App/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/Nelson/Projects/BAC_App/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/Nelson/Projects/BAC_App/iOS/bin/iPhoneSimulator/Debug/BAC_App.iOS.exe.mdb
+/Users/Nelson/Projects/BAC_App/iOS/bin/iPhoneSimulator/Debug/BAC_App.iOS.exe
+/Users/Nelson/Projects/BAC_App/iOS/obj/iPhoneSimulator/Debug/BAC_App.iOS.exe
+/Users/Nelson/Projects/BAC_App/iOS/obj/iPhoneSimulator/Debug/BAC_App.iOS.exe.mdb
+/Users/Nelson/Projects/BAC_App/iOS/bin/iPhoneSimulator/Debug/Xamarin.Insights.dll
+/Users/Nelson/Projects/BAC_App/iOS/bin/iPhoneSimulator/Debug/PLCrashReporterUnifiedBinding.dll
+/Users/Nelson/Projects/BAC_App/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/Nelson/Projects/BAC_App/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/Nelson/Projects/BAC_App/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/Nelson/Projects/BAC_App/iOS/bin/iPhoneSimulator/Debug/BAC_App.dll
+/Users/Nelson/Projects/BAC_App/iOS/bin/iPhoneSimulator/Debug/BAC_App.dll.mdb
