@@ -24,7 +24,7 @@ namespace BAC_App
 
 		protected override void OnStart ()
 		{
-			// Handle when your app starts
+			// Sup chris, it's Nelson
 		}
 
 		protected override void OnSleep ()
