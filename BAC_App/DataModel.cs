@@ -15,11 +15,7 @@ namespace BAC_App
 	public enum DrinkType {Beer, Liquor, Wine};
 
 	/// <summary>
-<<<<<<< HEAD
 	/// Object for Drinks.  Contains 4 properties: name, alcholContent, type, and dateAdded.
-=======
-	/// Object for Drink
->>>>>>> f92de9d38b8ac0c4ba416970a5419b0f5d3264ea
 	/// </summary>
 	public class Drink
 	{
