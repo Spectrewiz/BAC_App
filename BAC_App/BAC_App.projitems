@@ -12,5 +12,6 @@
     <Compile Include="$(MSBuildThisFileDirectory)BAC_App.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Database.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DataModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Drink.cs" />
   </ItemGroup>
 </Project>
