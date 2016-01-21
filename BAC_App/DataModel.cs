@@ -6,6 +6,7 @@ namespace BAC_App
 	{
 		public DataModel ()
 		{
+			string letsSeeIfThisWorks = "I hope it does";
 		}
 
 	}
