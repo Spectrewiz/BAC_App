@@ -10,5 +10,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)BAC_App.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database.cs" />
   </ItemGroup>
 </Project>
