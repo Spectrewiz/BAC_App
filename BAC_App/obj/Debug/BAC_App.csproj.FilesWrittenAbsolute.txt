@@ -1,7 +1,0 @@
-/Users/Nelson/Projects/BAC_App/BAC_App/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
-/Users/Nelson/Projects/BAC_App/BAC_App/bin/Debug/BAC_App.dll.mdb
-/Users/Nelson/Projects/BAC_App/BAC_App/bin/Debug/BAC_App.dll
-/Users/Nelson/Projects/BAC_App/BAC_App/obj/Debug/BAC_App.dll
-/Users/Nelson/Projects/BAC_App/BAC_App/obj/Debug/BAC_App.dll.mdb
-/Users/Nelson/Projects/BAC_App/BAC_App/bin/Debug/Xamarin.Forms.Core.dll
-/Users/Nelson/Projects/BAC_App/BAC_App/bin/Debug/Xamarin.Forms.Xaml.dll
