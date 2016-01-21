@@ -1,17 +1,12 @@
 ﻿<Properties StartupItem="Droid\BAC_App.Droid.csproj">
-<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BAC_App\DataModel.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="BAC_App\Database.cs" Line="1" Column="1" />
-      <File FileName="BAC_App\DataModel.cs" Line="18" Column="90" />
-=======
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BAC_App\Database.cs">
-    <Files>
-      <File FileName="BAC_App\Database.cs" Line="9" Column="18" />
-      <File FileName="BAC_App\DataModel.cs" Line="11" Column="4" />
->>>>>>> f92de9d38b8ac0c4ba416970a5419b0f5d3264ea
+      <File FileName="BAC_App\Database.cs" Line="52" Column="68" />
+      <File FileName="BAC_App\DataModel.cs" Line="13" Column="3" />
+      <File FileName="BAC_App\Drink.cs" Line="24" Column="14" />
+      <File FileName="BAC_App\BAC_App.cs" Line="7" Column="16" />
+      <File FileName="BAC_App\Profile.cs" Line="20" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

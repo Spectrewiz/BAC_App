@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace BAC_App
 {
@@ -9,13 +10,6 @@ namespace BAC_App
 	/// </summary>
 	public class Drink
 	{
-		public Drink(string name, float alcoholContent, DrinkType type, DateTime dateAdded) {
-			this.name = name;
-			this.alcocholContent = alcoholContent;
-			this.type = type;
-			this.dateAdded = dateAdded;
-		}
-
 		public string name { get; set; }
 		public float alcocholContent { get; set; } //multiply by .01 to get percent? - or set as a decimal and multiply by 100 when displaying to screen for %
 		public DrinkType type { get; set; } //type of drink Ex. beer or hard liquor
@@ -27,6 +21,7 @@ namespace BAC_App
 		/// <returns>The persons BAC</returns>
 		public static float calculateBAC(List<Drink> drinks) {
 			//TODO: Find good BAC calculation
+			return 0f;
 		}
 	}
 }

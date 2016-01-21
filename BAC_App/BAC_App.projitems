@@ -13,5 +13,6 @@
     <Compile Include="$(MSBuildThisFileDirectory)Database.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DataModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Drink.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Profile.cs" />
   </ItemGroup>
 </Project>

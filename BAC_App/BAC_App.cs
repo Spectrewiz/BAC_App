@@ -16,6 +16,9 @@ namespace BAC_App
 						new Label {
 							XAlign = TextAlignment.Center,
 							Text = "Welcome to Xamarin Forms!"
+						},
+						new Button {
+							Text = "Self Destruct"
 						}
 					}
 				}
