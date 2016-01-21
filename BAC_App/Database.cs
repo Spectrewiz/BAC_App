@@ -1,4 +1,6 @@
 ﻿using System.Collections.Generic;
+using SQLite;
+using System.IO;
 
 #if __IOS__
 using Foundation;
@@ -20,6 +22,9 @@ namespace BAC_App
 
 			#if __ANDROID__
 			path = Android.App.Application.Context.GetExternalFilesDir(null).AbsolutePath;
+			#endif
+			#if __IOS__
+			//path = IOS Directory;
 			#endif
 
 			Directory.CreateDirectory (path);
@@ -44,7 +49,7 @@ namespace BAC_App
 		public static void deleteDrink(Drink drink)
 		{
 			var conn = new SQLiteConnection (System.IO.Path.Combine (documentsFolder(), "database.db"));
-			conn.Query<Drink> ("DELETE * FROM Drink WHERE_dateCreated=?", drink.dateCreated);
+			conn.Query<Drink> ("DELETE * FROM Drink WHERE_dateCreated=?", drink.dateAdded);
 			conn.Close ();
 		}
 
